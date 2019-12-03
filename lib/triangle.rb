@@ -50,7 +50,6 @@ class Triangle
     if valid_triangle == false
       begin
         raise TriangleError
-
       end
     else
       if equil == true
